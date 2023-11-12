@@ -1,0 +1,25 @@
+{
+  "name": "projetoppm2atividade",
+  "version": "1.0.0",
+  "description": "aula projeto para manipulação dos parâmetros da url via formulário html",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Isabella-Santander/ProjetoPPM2Atividade.git)"
+  },
+  "keywords": [
+    "node",
+    "aprender",
+    "ppi"
+  ],
+  "author": "Isabella Santander e Any Carolina Velasco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
